@@ -1,3 +1,10 @@
+**#About Project **
+
+
+This is a project that helps to convert the given currency to the desired currency 
+This is setup that effecient use of useEffect hook and component reusable 
+Clear Undersatnding of how props flow between the components and re-rendering behind the screen
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
